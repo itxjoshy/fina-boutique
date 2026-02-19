@@ -34,7 +34,7 @@
 .showcase button {
   padding: 12px 24px;
   border: none;
-  border-radius: 5px;
+  border-radius: 15px;
   background-color: rgb(168, 140, 40);
   color: white;
   cursor: pointer;
