@@ -45,3 +45,12 @@
 .showcase button:hover {
   background-color: darken(rgb(168, 140, 40), 10%);
 }
+/* media queries */
+@media (max-width: 768px) {
+  .showcase h2 {
+    font-size: 2rem;
+  }
+  .showcase button {
+    font-size: 0.9rem;
+  }
+}
