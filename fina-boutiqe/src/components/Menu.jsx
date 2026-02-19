@@ -25,7 +25,7 @@ function Menu({ isMenuOpen, toggleMenu }) {
       <div className="buttons">
         <button className="insta">
           <a
-            href="https://www.instagram.com/byfegor/"
+            href="https://www.instagram.com/fina.boutiques/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -38,7 +38,7 @@ function Menu({ isMenuOpen, toggleMenu }) {
         </button>
         <button className="insta">
           <a
-            href="https://www.instagram.com/byfegor/"
+            href="https://wa.me/2349164581178?text=Hello,%20I'm%20interested%20in%20your%20products.%20I%20found%20your%20website%20and%20would%20love%20to%20place%20an%20order."
             target="_blank"
             rel="noopener noreferrer"
           >

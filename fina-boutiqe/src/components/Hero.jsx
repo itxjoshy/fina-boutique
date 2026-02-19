@@ -40,7 +40,7 @@ function Hero() {
           <div class="buttons">
             <button class="insta">
               <a
-                href="https://www.instagram.com/byfegor/"
+                href="https://www.instagram.com/fina.boutiques/"
                 target="_blank"
                 rel="noopener noreferrer"
               >

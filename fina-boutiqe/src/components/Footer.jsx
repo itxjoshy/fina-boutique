@@ -49,7 +49,10 @@ function Footer() {
           </div>
 
           <div class="footer-social">
-            <a href="#" aria-label="Instagram">
+            <a
+              href="https://www.instagram.com/fina.boutiques/"
+              aria-label="Instagram"
+            >
               <img
                 src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg"
                 alt="Instagram"
