@@ -100,12 +100,12 @@ function Collection() {
                     <p>{product.price}</p>
                     <button
                       onClick={() => {
-                        const message = `Hello, I'm interested in the ${selectedProduct.title}
-Price: ${selectedProduct.price}
-Size: ${selectedProduct.sizes}
-Color: ${selectedProduct.color}
+                        const message = `Hello, I'm interested in the ${product.title}
+Price: ${product.price}
+Size: ${product.sizes}
+Color: ${product.color}
 I found it on your website and would love to place an order.`;
-
+                        console.log(message);
                         const url = `https://wa.me/2349164581178?text=${encodeURIComponent(message)}`;
                         window.open(url, "_blank");
                       }}
