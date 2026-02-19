@@ -56,11 +56,11 @@ function Hero() {
             </div>
           </div>
         </header>
-        <div class="hero-section-content">
+        <div class="hero-section-content" id="home">
           <h1>the fina boutique</h1>
           <p>shop now for the latest in contour fashion.</p>
           <button>
-            <a href="#products">Shop Now</a>
+            <a href="#catalogue">Shop Now</a>
           </button>
         </div>
       </main>
