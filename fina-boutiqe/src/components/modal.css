@@ -87,10 +87,15 @@
       object-fit: cover;
       object-position: center;
       justify-self: center;
+      border-radius: 20px;
     }
   }
   .modal-content {
     flex-direction: column;
     height: auto;
+  }
+  .modal-container .product-description {
+    gap: 10px;
+    padding: 10px;
   }
 }
