@@ -105,7 +105,7 @@ Price: ${product.price}
 Size: ${product.sizes}
 Color: ${product.color}
 I found it on your website and would love to place an order.`;
-                        console.log(message);
+
                         const url = `https://wa.me/2349164581178?text=${encodeURIComponent(message)}`;
                         window.open(url, "_blank");
                       }}
